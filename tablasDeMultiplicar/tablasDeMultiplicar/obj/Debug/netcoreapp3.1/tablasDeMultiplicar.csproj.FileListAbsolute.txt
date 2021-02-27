@@ -1,0 +1,13 @@
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.exe
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.deps.json
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.runtimeconfig.json
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.runtimeconfig.dev.json
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.dll
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\bin\Debug\netcoreapp3.1\tablasDeMultiplicar.pdb
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.dll
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.pdb
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.genruntimeconfig.cache
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Debug\netcoreapp3.1\tablasDeMultiplicar.csprojAssemblyReference.cache

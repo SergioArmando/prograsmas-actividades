@@ -1,0 +1,3 @@
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Release\netcoreapp3.1\tablasDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Release\netcoreapp3.1\tablasDeMultiplicar.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\tablasDeMultiplicar\tablasDeMultiplicar\obj\Release\netcoreapp3.1\tablasDeMultiplicar.csproj.CoreCompileInputs.cache
