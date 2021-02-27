@@ -1,0 +1,13 @@
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.exe
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.deps.json
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.runtimeconfig.json
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.runtimeconfig.dev.json
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.dll
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\bin\Debug\netcoreapp3.1\grados radiales.pdb
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.csprojAssemblyReference.cache
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.dll
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.pdb
+C:\Users\Sergio Armando\source\repos\grados radiales\grados radiales\obj\Debug\netcoreapp3.1\grados radiales.genruntimeconfig.cache
