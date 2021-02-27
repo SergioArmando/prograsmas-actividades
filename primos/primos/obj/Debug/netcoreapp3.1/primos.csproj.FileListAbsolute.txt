@@ -1,0 +1,13 @@
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.exe
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.deps.json
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.runtimeconfig.json
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.runtimeconfig.dev.json
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.dll
+C:\Users\Sergio Armando\source\repos\primos\primos\bin\Debug\netcoreapp3.1\primos.pdb
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.csprojAssemblyReference.cache
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.dll
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.pdb
+C:\Users\Sergio Armando\source\repos\primos\primos\obj\Debug\netcoreapp3.1\primos.genruntimeconfig.cache

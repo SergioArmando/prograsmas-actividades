@@ -1,0 +1,13 @@
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.csprojAssemblyReference.cache
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.exe
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.deps.json
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.runtimeconfig.json
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.runtimeconfig.dev.json
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.dll
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\bin\Debug\netcoreapp3.1\perimetro y area.pdb
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.dll
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.pdb
+C:\Users\Sergio Armando\source\repos\perimetro y area\perimetro y area\obj\Debug\netcoreapp3.1\perimetro y area.genruntimeconfig.cache

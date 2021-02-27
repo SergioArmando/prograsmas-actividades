@@ -1,0 +1,13 @@
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.exe
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.deps.json
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.runtimeconfig.json
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.runtimeconfig.dev.json
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.dll
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\bin\Debug\netcoreapp3.1\serie de un numero.pdb
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.csprojAssemblyReference.cache
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.AssemblyInfoInputs.cache
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.AssemblyInfo.cs
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.dll
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.pdb
+C:\Users\Sergio Armando\source\repos\serie de un numero\serie de un numero\obj\Debug\netcoreapp3.1\serie de un numero.genruntimeconfig.cache
